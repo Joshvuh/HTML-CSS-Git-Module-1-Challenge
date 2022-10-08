@@ -10,3 +10,4 @@ Accessibility was also added to the HTML.
 
 https://joshvuh.github.io/HTML-CSS-Git-Module-1-Challenge/
 
+![image](https://user-images.githubusercontent.com/114708968/194677957-b8b7a255-10d4-4689-ac2b-dd1add7bd14f.png)
